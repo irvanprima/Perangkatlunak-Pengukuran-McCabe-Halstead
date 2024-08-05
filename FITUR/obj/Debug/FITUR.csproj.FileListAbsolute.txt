@@ -1,0 +1,10 @@
+C:\AJI\SEMESTER 5\FITUR\FITUR\FITUR\bin\Debug\FITUR.exe.config
+C:\AJI\SEMESTER 5\FITUR\FITUR\FITUR\bin\Debug\FITUR.exe
+C:\AJI\SEMESTER 5\FITUR\FITUR\FITUR\bin\Debug\FITUR.pdb
+C:\AJI\SEMESTER 5\FITUR\FITUR\FITUR\obj\Debug\FITUR.csproj.AssemblyReference.cache
+C:\AJI\SEMESTER 5\FITUR\FITUR\FITUR\obj\Debug\FITUR.Form1.resources
+C:\AJI\SEMESTER 5\FITUR\FITUR\FITUR\obj\Debug\FITUR.Properties.Resources.resources
+C:\AJI\SEMESTER 5\FITUR\FITUR\FITUR\obj\Debug\FITUR.csproj.GenerateResource.cache
+C:\AJI\SEMESTER 5\FITUR\FITUR\FITUR\obj\Debug\FITUR.csproj.CoreCompileInputs.cache
+C:\AJI\SEMESTER 5\FITUR\FITUR\FITUR\obj\Debug\FITUR.exe
+C:\AJI\SEMESTER 5\FITUR\FITUR\FITUR\obj\Debug\FITUR.pdb
